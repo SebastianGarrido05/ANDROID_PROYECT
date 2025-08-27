@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_calculadora
+id btn_calcular
+id btn_login
+id ed_password
+id ed_text_dos
+id ed_text_uno
+id ed_username
+id ls_mensajes
+id main
+id sp_operaciones
+id tx_bienvenido
+id tx_mensaje
+id tx_resultado
+layout activity_main
+layout activity_main2
+layout activity_main3
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ProyectoBase
+style Theme.ProyectoBase
+xml backup_rules
+xml data_extraction_rules

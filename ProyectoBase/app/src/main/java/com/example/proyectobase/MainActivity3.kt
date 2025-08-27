@@ -1,8 +1,10 @@
 package com.example.proyectobase
 
 import android.os.Bundle
+import android.widget.ArrayAdapter
 import android.widget.Button
 import android.widget.EditText
+import android.widget.Spinner
 import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -23,14 +25,38 @@ class MainActivity3 : AppCompatActivity() {
         val numeroDos: EditText = findViewById(R.id.ed_text_dos)
         val txResultado: TextView = findViewById(R.id.tx_resultado)
         val btnCalcular: Button = findViewById(R.id.btn_calcular)
+        val spOperaciones: Spinner = findViewById(R.id.sp_operaciones)
+
+        // CREAREMOS NUESTRO PRIMER ARRAY
+        val menuSpOperaciones = listOf("Sumar", "Restar"," Multiplicar", "Dividir")
+
+        // VAMOS A COMPLETAR EL SPINNER OPERACIONES
+        val adapter = ArrayAdapter(
+            this,
+            android.R.layout.simple_list_item_1,
+            menuSpOperaciones
+        )
+
+        spOperaciones.adapter = adapter
 
         btnCalcular.setOnClickListener {
             var calcN1:Int = numeroUno.text.toString().toIntOrNull() ?: 0
             var calcN2:Int = numeroDos.text.toString().toIntOrNull() ?: 0
 
-            var resultadoOP:Int = OpMatematicas.sumar(calcN1,calcN2)
+            if(spOperaciones.selectedItem == "Sumar"){
+                var resultadoOP:Int = OpMatematicas.sumar(calcN1,calcN2)
+                txResultado.text = resultadoOP.toString()
+            }else if(spOperaciones.selectedItem == "Restar"){
+                var resultadoOP:Int = OpMatematicas.restar(calcN1,calcN2)
+                txResultado.text = resultadoOP.toString()
+            }else if(spOperaciones.selectedItem == "Dividir"){
+                var resultadoOP:Int = OpMatematicas.dividir(calcN1,calcN2)
+                txResultado.text = resultadoOP.toString()
+            }
 
-            txResultado.text = resultadoOP.toString()
+
+
+
 
         }
         
