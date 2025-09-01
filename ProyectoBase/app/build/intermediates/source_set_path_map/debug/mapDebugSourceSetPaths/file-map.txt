@@ -25,10 +25,10 @@ com.example.proyectobase.app-lifecycle-livedata-2.6.1-23 C:\Users\CETECOM\.gradl
 com.example.proyectobase.app-lifecycle-livedata-core-2.6.1-24 C:\Users\CETECOM\.gradle\caches\8.10.2\transforms\d04b5980358aaf9e6d9dbf47c66526f1\transformed\lifecycle-livedata-core-2.6.1\res
 com.example.proyectobase.app-core-ktx-1.10.1-25 C:\Users\CETECOM\.gradle\caches\8.10.2\transforms\ef2c1ac3049d8ebd16516f95b0715069\transformed\core-ktx-1.10.1\res
 com.example.proyectobase.app-drawerlayout-1.1.1-26 C:\Users\CETECOM\.gradle\caches\8.10.2\transforms\f50a68e84d18b89d9e251307062ef6e7\transformed\drawerlayout-1.1.1\res
-com.example.proyectobase.app-pngs-27 C:\Users\CETECOM\AndroidStudioProjects\ANDROID_PROYECT\ProyectoBase\app\build\generated\res\pngs\debug
-com.example.proyectobase.app-resValues-28 C:\Users\CETECOM\AndroidStudioProjects\ANDROID_PROYECT\ProyectoBase\app\build\generated\res\resValues\debug
-com.example.proyectobase.app-packageDebugResources-29 C:\Users\CETECOM\AndroidStudioProjects\ANDROID_PROYECT\ProyectoBase\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.proyectobase.app-packageDebugResources-30 C:\Users\CETECOM\AndroidStudioProjects\ANDROID_PROYECT\ProyectoBase\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.proyectobase.app-debug-31 C:\Users\CETECOM\AndroidStudioProjects\ANDROID_PROYECT\ProyectoBase\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.proyectobase.app-debug-32 C:\Users\CETECOM\AndroidStudioProjects\ANDROID_PROYECT\ProyectoBase\app\src\debug\res
-com.example.proyectobase.app-main-33 C:\Users\CETECOM\AndroidStudioProjects\ANDROID_PROYECT\ProyectoBase\app\src\main\res
+com.example.proyectobase.app-pngs-27 C:\Users\CETECOM\StudioProjects\ANDROID_PROYECT\ProyectoBase\app\build\generated\res\pngs\debug
+com.example.proyectobase.app-resValues-28 C:\Users\CETECOM\StudioProjects\ANDROID_PROYECT\ProyectoBase\app\build\generated\res\resValues\debug
+com.example.proyectobase.app-packageDebugResources-29 C:\Users\CETECOM\StudioProjects\ANDROID_PROYECT\ProyectoBase\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.proyectobase.app-packageDebugResources-30 C:\Users\CETECOM\StudioProjects\ANDROID_PROYECT\ProyectoBase\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.proyectobase.app-debug-31 C:\Users\CETECOM\StudioProjects\ANDROID_PROYECT\ProyectoBase\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.proyectobase.app-debug-32 C:\Users\CETECOM\StudioProjects\ANDROID_PROYECT\ProyectoBase\app\src\debug\res
+com.example.proyectobase.app-main-33 C:\Users\CETECOM\StudioProjects\ANDROID_PROYECT\ProyectoBase\app\src\main\res

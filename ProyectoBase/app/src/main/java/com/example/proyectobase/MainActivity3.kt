@@ -37,7 +37,11 @@ class MainActivity3 : AppCompatActivity() {
             menuSpOperaciones
         )
 
+        //
         spOperaciones.adapter = adapter
+
+        // leer item de lista seleccionado
+        var str_op_selected = spOperaciones.selectedItem.toString()
 
         btnCalcular.setOnClickListener {
             var calcN1:Int = numeroUno.text.toString().toIntOrNull() ?: 0
@@ -45,13 +49,13 @@ class MainActivity3 : AppCompatActivity() {
 
             if(spOperaciones.selectedItem == "Sumar"){
                 var resultadoOP:Int = OpMatematicas.sumar(calcN1,calcN2)
-                txResultado.text = resultadoOP.toString()
+                txResultado.text = resultadoOP.toString() + "op: " + str_op_selected
             }else if(spOperaciones.selectedItem == "Restar"){
                 var resultadoOP:Int = OpMatematicas.restar(calcN1,calcN2)
-                txResultado.text = resultadoOP.toString()
+                txResultado.text = resultadoOP.toString() + "op: " + str_op_selected
             }else if(spOperaciones.selectedItem == "Dividir"){
                 var resultadoOP:Int = OpMatematicas.dividir(calcN1,calcN2)
-                txResultado.text = resultadoOP.toString()
+                txResultado.text = resultadoOP.toString() + "op: " + str_op_selected
             }
 
 

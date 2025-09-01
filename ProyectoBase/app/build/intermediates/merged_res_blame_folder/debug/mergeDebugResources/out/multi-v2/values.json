@@ -42,6 +42,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\CETECOM\\StudioProjects\\ANDROID_PROYECT\\ProyectoBase\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,334",
+                        "endLines": "5,7",
+                        "endColumns": "12,72",
+                        "endOffsets": "326,402"
+                    },
+                    "to": {
+                        "startLines": "2542,6516",
+                        "startColumns": "4,4",
+                        "startOffsets": "178923,457568",
+                        "endLines": "2545,6516",
+                        "endColumns": "12,71",
+                        "endOffsets": "179038,457635"
+                    }
+                },
+                {
                     "source": "C:\\Users\\CETECOM\\.gradle\\caches\\8.10.2\\transforms\\3eba96aaa9ccfc51fafec9a68ba99fac\\transformed\\cardview-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,35,36,37,38,45,47,50,7",
@@ -77,23 +96,6 @@
                         "endLines": "138,141,1053,11226",
                         "endColumns": "55,47,51,24",
                         "endOffsets": "7047,7203,62792,712183"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\CETECOM\\AndroidStudioProjects\\ANDROID_PROYECT\\ProyectoBase\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "57,100",
-                        "endColumns": "41,41",
-                        "endOffsets": "94,137"
-                    },
-                    "to": {
-                        "startLines": "640,959",
-                        "startColumns": "4,4",
-                        "startOffsets": "32798,56476",
-                        "endColumns": "41,41",
-                        "endOffsets": "32835,56513"
                     }
                 },
                 {
@@ -147,25 +149,6 @@
                         "startOffsets": "123425",
                         "endColumns": "49",
                         "endOffsets": "123470"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\CETECOM\\AndroidStudioProjects\\ANDROID_PROYECT\\ProyectoBase\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "102,334",
-                        "endLines": "5,7",
-                        "endColumns": "12,72",
-                        "endOffsets": "326,402"
-                    },
-                    "to": {
-                        "startLines": "2542,6516",
-                        "startColumns": "4,4",
-                        "startOffsets": "178923,457568",
-                        "endLines": "2545,6516",
-                        "endColumns": "12,71",
-                        "endOffsets": "179038,457635"
                     }
                 },
                 {
@@ -243,6 +226,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\CETECOM\\StudioProjects\\ANDROID_PROYECT\\ProyectoBase\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,100",
+                        "endColumns": "41,41",
+                        "endOffsets": "94,137"
+                    },
+                    "to": {
+                        "startLines": "640,959",
+                        "startColumns": "4,4",
+                        "startOffsets": "32798,56476",
+                        "endColumns": "41,41",
+                        "endOffsets": "32835,56513"
+                    }
+                },
+                {
                     "source": "C:\\Users\\CETECOM\\.gradle\\caches\\8.10.2\\transforms\\aca753a16c57feddacbaacf3b83183e9\\transformed\\viewpager2-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -259,23 +259,6 @@
                         "endLines": "13515",
                         "endColumns": "24",
                         "endOffsets": "796489"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\CETECOM\\AndroidStudioProjects\\ANDROID_PROYECT\\ProyectoBase\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "49",
-                        "endOffsets": "62"
-                    },
-                    "to": {
-                        "startLines": "1967",
-                        "startColumns": "4",
-                        "startOffsets": "130324",
-                        "endColumns": "49",
-                        "endOffsets": "130369"
                     }
                 },
                 {
@@ -329,6 +312,23 @@
                         "endLines": "506,1104,1105,1106,1114,1115,1116,1800,12594",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "25672,66124,66172,66228,66914,66990,67062,120112,762328"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\CETECOM\\StudioProjects\\ANDROID_PROYECT\\ProyectoBase\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "49",
+                        "endOffsets": "62"
+                    },
+                    "to": {
+                        "startLines": "1967",
+                        "startColumns": "4",
+                        "startOffsets": "130324",
+                        "endColumns": "49",
+                        "endOffsets": "130369"
                     }
                 },
                 {
