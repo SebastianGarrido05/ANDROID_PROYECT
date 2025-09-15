@@ -12,14 +12,17 @@ id ed_text_dos
 id ed_text_uno
 id ed_username
 id ls_mensajes
+id lvMenu
 id main
 id sp_operaciones
+id txMenu
 id tx_bienvenido
 id tx_mensaje
 id tx_resultado
 layout activity_main
 layout activity_main2
 layout activity_main3
+layout activity_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name

@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.ProyectoBase" >
         <activity
+            android:name="com.example.proyectobase.Menu"
+            android:exported="false" />
+        <activity
             android:name="com.example.proyectobase.MainActivity3"
             android:exported="false" />
         <activity

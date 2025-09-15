@@ -3295,6 +3295,7 @@ id linear
 id listMode
 id list_item
 id ls_mensajes
+id lvMenu
 id m3_side_sheet
 id main
 id marquee
@@ -3530,6 +3531,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id txMenu
 id tx_bienvenido
 id tx_mensaje
 id tx_resultado
@@ -3673,6 +3675,7 @@ layout abc_tooltip
 layout activity_main
 layout activity_main2
 layout activity_main3
+layout activity_menu
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
